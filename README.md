@@ -1,5 +1,5 @@
 
-![download (7)](https://github.com/user-attachments/assets/55b4905b-b18d-41f9-9f97-b392cdc8310c)
+![Фальшивые инвестиции — как распознать ловушку](https://github.com/user-attachments/assets/5d5a2a1d-4552-486b-95a9-86d80813e39f)
 
 ## About Me:
 ⭐ Small Introduction:<br>I’m a tech enthusiast exploring AI, cybersecurity, and modern software development while building projects that blend creativity with real-world impact.<br>⭐ About Me:<br>🛠️ Currently working on: ML projects & cybersecurity practice<br>🤝 Collaborating on: Web, AI, and cyber tools<br>🙌 Need help with: Ethical hacking & cloud skills<br>🌱 Learning: Network security, AWS & Python advancements<br>💬 Ask me about: ML models, web apps, penetration testing<br>⚡ Fun fact: I enjoy turning simple ideas into smart, interactive tools
