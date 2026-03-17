@@ -1,5 +1,5 @@
 
-<img width="1024" height="768" alt="designarena_image_8nd6cm90" src="https://github.com/user-attachments/assets/6ddbe3d8-6de7-461d-a9ec-af6b251ee40c" />
+<img width="1024" height="627" alt="designarena_image_8nd6cm90" src="https://github.com/user-attachments/assets/1928c9c3-5ee1-4b86-a070-567576f3a15d" />
 
 
 ## About Me:
