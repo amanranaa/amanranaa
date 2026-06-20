@@ -59,14 +59,14 @@
 
 ## 🎯 Core Expertise
 
-
+```text
 Python Development       ██████████████ 95%
 Cybersecurity            █████████████ 90%
 Flask Development        ████████████ 85%
 AI / Machine Learning    ███████████ 80%
 SOC Analysis             ██████████ 75%
 Cloud Security           ████████ 65%
-
+```
 ---
 ### 3. Better Tech Stack
 
@@ -74,9 +74,6 @@ Cloud Security           ████████ 65%
 <img src="https://skillicons.dev/icons?i=python,flask,javascript,html,css,mongodb,mysql,git,github,linux,bash,vscode"/>
 </p>
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanranaa&theme=github_dark"/>
-</p>
 ## 🔐 Cybersecurity
 
 ✔ Vulnerability Assessment
@@ -138,7 +135,7 @@ Cloud Security           ████████ 65%
 🏆 Database Management System – Infosys Springboard
 
 ## 💻 Terminal
-
+```bash
 $ whoami
 Aman Kumar Rana
 
@@ -150,7 +147,7 @@ Python, Flask, Splunk, Wazuh, Nmap, Burp Suite
 
 $ goal
 Become a SOC Analyst and AI Security Engineer
-
+```
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -162,18 +159,12 @@ Become a SOC Analyst and AI Security Engineer
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanranaa&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanranaa&theme=github_dark"/>
 </p>
 
 <p align="center">
-<img width="900" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Y0YjRkNmQ1YzQ4ZjY0ZjJjZmNmOTk3YjY2NjM4M2Q0MWE4ODkxNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+<img width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Y0YjRkNmQ1YzQ4ZjY0ZjJjZmNmOTk3YjY2NjM4M2Q0MWE4ODkxNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 </p>
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanranaa&theme=tokyo-night"/>
 
 ## 🐍 Contribution Snake
 
@@ -191,6 +182,8 @@ Building secure systems, intelligent applications, and innovative solutions thro
 ### ⭐ Thanks for visiting my profile!
 
 ### Code • Secure • Innovate
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,100:2563EB"/>
 
 </div>
 
