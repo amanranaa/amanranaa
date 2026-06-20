@@ -1,36 +1,186 @@
+<div align="center">
 
-<img width="1024" height="627" alt="designarena_image_8nd6cm90" src="https://github.com/user-attachments/assets/1928c9c3-5ee1-4b86-a070-567576f3a15d" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,100:2563EB&text=Aman%20Kumar%20Rana&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
+# 🛡️ Cybersecurity Analyst | 🐍 Python Developer | 🤖 AI/ML Engineer
 
-## About Me:
-⭐ Small Introduction:<br>I’m a tech enthusiast exploring AI, cybersecurity, and modern software development while building projects that blend creativity with real-world impact.<br>⭐ About Me:<br>🛠️ Currently working on: ML projects & cybersecurity practice<br>🤝 Collaborating on: Web, AI, and cyber tools<br>🙌 Need help with: Ethical hacking & cloud skills<br>🌱 Learning: Network security, AWS & Python advancements<br>💬 Ask me about: ML models, web apps, penetration testing<br>⚡ Fun fact: I enjoy turning simple ideas into smart, interactive tools
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Analyst;Python+Developer;AI%2FML+Engineer;SOC+Analyst;Threat+Hunter;Security+Researcher;Flask+Developer"/>
 
+</div>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1AFe6yBm22/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amnfrva) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/aman-kumar-rana-tech-analyst) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AmanRanaaOP) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amanranaa12@gmail.com) 
+<p align="center">
+<img width="900" src="https://raw.githubusercontent.com/Akshay090/github-assets/main/cyber-banner.gif">
+</p>
+## 🌐 Connect With Me
 
-# 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amanranaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache=20260206)
-![](https://nirzak-streak-stats.vercel.app/?user=amanranaa&theme=dark&hide_border=false&cache=20260206)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanranaa&theme=dark&hide_border=false&layout=compact&cache=20260206)
+<p align="center">
 
+<a href="https://linkedin.com/in/aman-kumar-rana-tech-analyst">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/amanranaa">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:amanranaa12@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://amansec.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge"/>
+</a>
+
+<a href="https://tryhackme.com/p/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme"/>
+</a>
+
+<a href="https://leetcode.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</p>
+
+## 🚀 About Me
+
+🎓 B.E. Computer Science Engineering (AI & ML)
+
+📍 Bangalore, India
+
+🔐 Passionate about Cybersecurity & Threat Detection
+
+🐍 Python Developer specializing in Flask
+
+🤖 AI & Machine Learning Enthusiast
+
+🛡️ Security Researcher & SOC Analyst Aspirant
+
+⚡ Building secure and intelligent applications
+
+🌱 Currently Learning:
+- SOC Operations
+- Cloud Security
+- Security Automation
+- Advanced Python
+- AI Security
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,flask,js,html,css,mongodb,mysql,sqlite,git,github,linux,vscode,bash" />
+</p>
+
+## 🔐 Cybersecurity
+
+✔ Vulnerability Assessment
+
+✔ Penetration Testing
+
+✔ Threat Detection
+
+✔ Security Monitoring
+
+✔ Incident Response
+
+✔ Log Analysis
+
+✔ Threat Intelligence
+
+✔ Security Automation
+
+✔ Network Security
+
+## 🧰 Security Tools
+
+🔹 Wireshark
+
+🔹 Nmap
+
+🔹 Burp Suite
+
+🔹 Metasploit
+
+🔹 Splunk
+
+🔹 Wazuh
+
+🔹 Kali Linux
+
+## 🚀 Featured Projects
+
+### 🤖 AI Resume Analyzer
+AI-powered ATS Resume Analysis Platform.
+
+### 🛡️ Penetration Testing Platform
+Flask-based automated security assessment platform.
+
+### 🎣 PhishShield
+AI-Based Phishing Investigation System.
+
+### 🔥 Smart Software Firewall
+Advanced firewall management and monitoring dashboard.
+
+### 🔍 Vulnerability Scanner
+Website security scanning tool built using Python & Flask.
+
+## 🏅 Certifications
+
+🏆 Cybersecurity & Ethical Hacking Intern – CampusPe
+
+🏆 Cybersecurity Virtual Internship – Deloitte
+
+🏆 AWS Academy Cloud Foundations
+
+🏆 Android Developer Virtual Internship – Google
+
+🏆 Database Management System – Infosys Springboard
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=amanranaa&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amanranaa&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanranaa&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amanranaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=amanranaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://github-profile-trophy.vercel.app/?username=amanranaa&theme=tokyonight&row=1&column=7"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=amanranaa&icon=0&color=0)](https://visitcount.itsvg.in)
+</p>
 
-## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/amanrana1206) 
+## 📈 Contribution Graph
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanranaa&theme=tokyo-night"/>
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/amanranaa/amanranaa/blob/output/github-contribution-grid-snake.svg)
+
+## 💡 Motto
+
+"Secure Systems. Intelligent Solutions. Continuous Innovation."
+
+<img src="https://komarev.com/ghpvc/?username=amanranaa&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+### Code • Secure • Innovate
+
+</div>
+
+
+
