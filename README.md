@@ -7,16 +7,13 @@
 <p align="center">
 <img width="900" src="https://raw.githubusercontent.com/Akshay090/github-assets/main/cyber-banner.gif">
 </p>
+
 ## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://linkedin.com/in/aman-kumar-rana-tech-analyst">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/amanranaa">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:amanranaa12@gmail.com">
