@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=360&color=0:0F172A,25:4C1D95,50:7C3AED,75:A855F7,100:F0ABFC&text=Aman%20Kumar%20Rana&fontColor=FFFFFF&fontSize=60&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=360&color=0:0F172A,25:4C1D95,50:7C3AED,75:A855F7,100:F0ABFC&text=Hi%20I'm%20Aman%20Rana&fontColor=FFFFFF&fontSize=55&animation=twinkling"/>
 <div align="center">
 <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1200&height=120&lines=AMAN+KUMAR+RANA;CYBERSECURITY+ANALYST;PYTHON+DEVELOPER;AI+%26+ML+ENGINEER"/>
   
