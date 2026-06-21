@@ -1,13 +1,9 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=360&color=0:0F172A,25:4C1D95,50:7C3AED,75:A855F7,100:F0ABFC&text=Aman%20Kumar%20Rana&fontColor=FFFFFF&fontSize=60&animation=twinkling"/>
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,100:2563EB&text=Aman%20Kumar%20Rana&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
-
-# 🛡️ Cybersecurity Analyst | 🐍 Python Developer | 🤖 AI/ML Engineer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Analyst;Python+Developer;AI%2FML+Engineer;SOC+Analyst;Threat+Hunter;Security+Researcher;Flask+Developer"/>
-
+<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1200&height=120&lines=AMAN+KUMAR+RANA;CYBERSECURITY+ANALYST;PYTHON+DEVELOPER;AI+%26+ML+ENGINEER"/>
+  
+<img src="https://user-images.githubusercontent.com/74038190/212284100-4b33f10a-14d2-4c2f-8e53-4b7b5c554f25.gif" width="100%">
 </div>
-
 <p align="center">
 <img width="900" src="https://raw.githubusercontent.com/Akshay090/github-assets/main/cyber-banner.gif">
 </p>
@@ -31,12 +27,8 @@
 <img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge"/>
 </a>
 
-<a href="https://tryhackme.com/p/YOUR_USERNAME">
+<a href="https://tryhackme.com/p/amanranaa12">
 <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme"/>
-</a>
-
-<a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
 </p>
@@ -182,10 +174,7 @@ Building secure systems, intelligent applications, and innovative solutions thro
 ### ⭐ Thanks for visiting my profile!
 
 ### Code • Secure • Innovate
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,100:2563EB"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&section=footer&height=180&color=0:F0ABFC,50:7C3AED,100:0F172A"/>
 </div>
-
 
 
