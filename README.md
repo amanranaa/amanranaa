@@ -111,17 +111,6 @@ Cloud Security           ████████ 65%
 
 🔹 Open Source Security Projects
 
-## 🏅 Certifications
-
-🏆 Cybersecurity & Ethical Hacking Intern – CampusPe
-
-🏆 Cybersecurity Virtual Internship – Deloitte
-
-🏆 AWS Academy Cloud Foundations
-
-🏆 Android Developer Virtual Internship – Google
-
-🏆 Database Management System – Infosys Springboard
 
 ## 💻 Terminal
 ```bash
