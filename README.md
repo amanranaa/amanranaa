@@ -57,7 +57,7 @@ SOC Analysis             ██████████ 75%
 Cloud Security           ████████ 65%
 ```
 ---
-### 3. Better Tech Stack
+### 💻 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,flask,javascript,html,css,mongodb,mysql,git,github,linux,bash,vscode"/>
